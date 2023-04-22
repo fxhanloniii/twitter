@@ -1,0 +1,16 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "My Twitter project is a web application that emulates the basic functionality of Twitter using the Twitter API.  The project uses Node.js, Express, and MongoDB on the backend, and the Twitter API and Passport.js for authentication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
